@@ -6,7 +6,7 @@ Automates purchases for newyorksupreme.com product drops.
 
 #### STEP ONE
 ```
-$ git clone https://github.com/jg-fisher/supreme-bot
+$ git clone https://github.com/alxs1234/supreme-bot
 $ cd supreme-bot
 $ virtualenv venv --python=python3.7
 $ pip install -r requirements.txt
