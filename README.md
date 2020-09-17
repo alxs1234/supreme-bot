@@ -13,7 +13,7 @@ $ pip install -r requirements.txt
 ```
 
 #### STEP TWO
-Create a config.py file in the local directory that looks similar to this for each order you are placing.
+Edit config.py file in the local directory that looks similar to this for each order you are placing.
 
 ```
 keys = {
